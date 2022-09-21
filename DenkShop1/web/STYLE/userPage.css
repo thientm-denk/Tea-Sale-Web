@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Font */
+/* Có hai dạng chính */
+/* serif: có chân */
+/* sans-serif: không chân */
+html{
+    font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    font-size: 5rem;
+}
+
+.Container{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
