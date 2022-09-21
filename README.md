@@ -23,10 +23,11 @@ PRJ102 - HoaDnt
 ## Preview Screenshot
 
 <div align="center">
-  <img src="./Picture/1.png" alt="Home 1" width="45%"></img> &nbsp;&nbsp; <img src="./imgs/home-2.png" alt="Home 2" width="45%"></img>
-  <img src="./Picture/4.png" alt="Search Page" width="45%"></img> &nbsp;&nbsp; <img src="./imgs/admin-account-list.png" alt="Admin Account List" width="45%"></img>
-  <img src="./Picture/2.png" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp; <img src="./imgs/admin-supervisor-list.png" alt="Admin Supervisor List" width="45%"></img>
-  <img src="./Picture/5.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp; <img src="./imgs/admin-supervisor-list.png" alt="Admin Supervisor List" width="45%"></img>
+  
+  <img src="./Picture/1.png" alt="Home 1" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Picture/4.png" alt="Search Page" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Picture/2.png" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Picture/5.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
   
 </div>
   
