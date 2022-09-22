@@ -81,7 +81,7 @@ PRJ301 - HoaDnt
 
 ## Reference
 
-- [Integrating Google Sign-In into your web app]([http://www.kieutrongkhanh.net/2016/08/huong-dan-thuc-hien-chuc-nang-login-vao.html](https://developers.google.com/identity/sign-in/web/sign-in))
+- [Integrating Google Sign-In into your web app](https://developers.google.com/identity/sign-in/web/sign-in)
 
 ## License & Copyright
 &copy; 2021 TranMinhThien.
