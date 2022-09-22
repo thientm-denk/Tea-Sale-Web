@@ -56,7 +56,7 @@ PRJ301 - HoaDnt
 - [ ] Login by Gmail
 - [x] Login
 
-**2. User **
+**2. User**
 - [x] Search teas
 - [x] CRUD cart
 - [x] Checkout
