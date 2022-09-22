@@ -17,8 +17,8 @@ PRJ301 - HoaDnt
 - This is a mini project selling Milk tea
 - This web works well on desktop, not for mobile
 - Use Netbean to combine and run
-- run 'DataBaseDenkShop.sql' included for database
-- Change DBUtils for corret DB connection
+- run 'DataBaseDenkShop.sql' for database
+- Change DBUtils for correct DB connection
 
 ## Preview Screenshot
 
