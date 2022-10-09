@@ -1,4 +1,4 @@
-# TEA SALING WEB
+# TEA SELLING WEB
 PRJ301 - HoaDnt
 
 :wave: My Project at FPT UNI course PRJ :wave:
